@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section presents a course overview, course policies and
+  requirements, and a class schedule.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
