@@ -6,6 +6,7 @@ file: /courses/sts-001-technology-in-american-history-spring-2006/b61e37367a3784
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: reviewbooks_ocw.pdf
 uid: b61e3736-7a37-84ad-595f-280998fcdfce
 ---
 This resource includes the list of required text to be used by the students while doing the assignments.
-

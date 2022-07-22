@@ -6,6 +6,7 @@ file: /courses/sts-001-technology-in-american-history-spring-2006/c24f5d07eafe3b
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: filmreview_tips.pdf
 uid: c24f5d07-eafe-3b82-04b1-97f8aa0f3880
 ---
 This resource includes the tips on how to evaluate films, from the 1999 version of this course.
-

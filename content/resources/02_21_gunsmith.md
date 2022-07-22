@@ -7,6 +7,7 @@ file: /courses/sts-001-technology-in-american-history-spring-2006/1878730bfa7a1b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 02_21_gunsmith.pdf
 uid: 1878730b-fa7a-1b96-4605-71a8bfd00c71
 ---
 This resource includes information on firing a flintlock rifle, manufacture of barrel, boring barrel, filing outer surface of barrel, rifling barrel, and drilling touch hole with hand drill.
-
