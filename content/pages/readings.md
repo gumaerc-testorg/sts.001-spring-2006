@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The readings sections includes required readings and films scripts for
+  this course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 9e3734ef-93b9-7fe1-96f9-0c6cb26fd288
 ---
@@ -10,15 +15,15 @@ Cowan, Ruth Schwarz. _A Social History of American Technology_. New York, NY: Ox
 
 Smith, Merritt Roe, and Gregory Clancey, eds. _Major Problems in the History of American Technology_. Boston, MA: Houghton Mifflin, 1998. ISBN: 9780669354720.
 
-Students must also read a book selected from a list of acceptable titles, and write a review as described in the [assignments]({{< baseurl >}}/pages/assignments) section.
+Students must also read a book selected from a list of acceptable titles, and write a review as described in the {{% resource_link 734a9230-c4b4-9a3e-c687-40217600a569 "assignments" %}} section.
 
-*   List of acceptable books for review ([PDF]({{< baseurl >}}/resources/reviewbooks_ocw))
+*   List of acceptable books for review ({{% resource_link b61e3736-7a37-84ad-595f-280998fcdfce "PDF" %}})
 
 For students who are not familiar with American history and need to familiarize themselves with the subject, a helpful introduction is: Maier, Pauline, et al. _Inventing America: A History of the United States_. 2nd ed. New York, NY: W.W. Norton & Co., 2005. ISBN: 9780393926750.
 
 Films viewed in many class sessions are also listed in the table.
 
-*   Tips on how to evaluate films, from the 1999 version of this course (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/filmreview_tips))  
+*   Tips on how to evaluate films, from the 1999 version of this course ({{% resource_link c24f5d07-eafe-3b82-04b1-97f8aa0f3880 "PDF" %}})  
     (Note: film review essays are no longer assigned for the course.)
 
 {{< tableopen >}}
@@ -199,7 +204,7 @@ Cowan. pp. 208-18.
   
 Hawthorne, Nathaniel. "[The Celestial Railroad](http://www.gutenberg.org/etext/512)." (Download "The Celestial Railroad," contained in a version of the text _Mosses from an Old Manse and Other Stories_, from Project Gutenberg.)  
   
-Notes on "The Celestial Railroad." ([PDF]({{< baseurl >}}/resources/celestial_rlrd))
+Notes on "The Celestial Railroad." ({{% resource_link b6f0a0d3-9c51-26f7-d62e-d8757e774a8a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
