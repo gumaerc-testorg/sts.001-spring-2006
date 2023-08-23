@@ -29,4 +29,3 @@ video_metadata:
   youtube_id: ''
 ---
 This resource includes information on Sample response to "What is Technology?" readings by Jamie Pietruska.
-
