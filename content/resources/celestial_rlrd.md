@@ -28,4 +28,3 @@ video_metadata:
   youtube_id: ''
 ---
 This resource includes notes on "The Celestial Railroad."
-
