@@ -4,6 +4,7 @@ description: This resource includes information on Sample response to ?What is T
   readings by Jamie Pietruska.
 draft: false
 file: /courses/sts-001-technology-in-american-history-spring-2006/7baf973ac6546fa9184bc3b1e1bc3186_response_sample.pdf
+file_size: 15494
 file_type: application/pdf
 image_metadata:
   caption: ''
