@@ -3,6 +3,7 @@ content_type: resource
 description: This resource icludes information on the spread of engineering after
   the civil war.
 file: /courses/sts-001-technology-in-american-history-spring-2006/390e2a2bca13267d4ec66307fea6ca77_american_eng_2.pdf
+file_size: 235929
 file_type: application/pdf
 learning_resource_types:
 - Readings

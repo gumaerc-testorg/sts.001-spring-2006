@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes notes on "The Celestial Railroad.
 draft: false
 file: /courses/sts-001-technology-in-american-history-spring-2006/b6f0a0d39c5126f7d62ed8757e774a8a_celestial_rlrd.pdf
+file_size: 62993
 file_type: application/pdf
 image_metadata:
   caption: ''
