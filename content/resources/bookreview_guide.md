@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on guidelines on preparing a book
   review citing few examples from different news papers and jouranals.
-file: /courses/sts-001-technology-in-american-history-spring-2006/e5fb55c614afddca69ac30d90408516f_bookreview_guide.pdf
+file: /ol-ocw-studio-app/courses/sts-001-technology-in-american-history-spring-2006/e5fb55c614afddca69ac30d90408516f_bookreview_guide.pdf
 file_size: 116126
 file_type: application/pdf
 learning_resource_types:
