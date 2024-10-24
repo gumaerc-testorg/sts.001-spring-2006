@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes the tips on how to evaluate films, from the 1999
   version of this course.
-file: /courses/sts-001-technology-in-american-history-spring-2006/c24f5d07eafe3b8204b197f8aa0f3880_filmreview_tips.pdf
+file: /ol-ocw-studio-app/courses/sts-001-technology-in-american-history-spring-2006/c24f5d07eafe3b8204b197f8aa0f3880_filmreview_tips.pdf
 file_size: 14678
 file_type: application/pdf
 learning_resource_types:

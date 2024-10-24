@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on guidelines for preparing a scholarly
   essay giving example footnotes.
-file: /courses/sts-001-technology-in-american-history-spring-2006/a19a0d00b7b0df21ae0183cce7c0ec4d_essay_guide.pdf
+file: /ol-ocw-studio-app/courses/sts-001-technology-in-american-history-spring-2006/a19a0d00b7b0df21ae0183cce7c0ec4d_essay_guide.pdf
 file_size: 22863
 file_type: application/pdf
 learning_resource_types:
