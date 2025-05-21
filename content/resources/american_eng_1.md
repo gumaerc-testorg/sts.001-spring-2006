@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on navy engineers in the civil war
   era.
-file: /ol-ocw-studio-app/courses/sts-001-technology-in-american-history-spring-2006/dc219451eea1107fd2669c42426e6612_american_eng_1.pdf
+file: /courses/sts-001-technology-in-american-history-spring-2006/dc219451eea1107fd2669c42426e6612_american_eng_1.pdf
 file_size: 1466262
 file_type: application/pdf
 learning_resource_types:

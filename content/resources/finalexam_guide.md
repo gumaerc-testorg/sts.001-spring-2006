@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resoure includes information on guidelines on the final exam.
-file: /ol-ocw-studio-app/courses/sts-001-technology-in-american-history-spring-2006/33da3391e29d7cda0454a935016aaa6f_finalexam_guide.pdf
+file: /courses/sts-001-technology-in-american-history-spring-2006/33da3391e29d7cda0454a935016aaa6f_finalexam_guide.pdf
 file_size: 57465
 file_type: application/pdf
 learning_resource_types: []
