@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes information on Alison Witson''s Mesmerised: Powers
   of mind in victorian britain.'
-file: /courses/sts-001-technology-in-american-history-spring-2006/2b478a93a65c09c604b8af494f25057b_bookreviewsample.pdf
+file: /ol-ocw-studio-app/courses/sts-001-technology-in-american-history-spring-2006/2b478a93a65c09c604b8af494f25057b_bookreviewsample.pdf
 file_size: 94717
 file_type: application/pdf
 learning_resource_types:
