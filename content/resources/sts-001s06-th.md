@@ -7,9 +7,8 @@ file_type: image/jpeg
 image_metadata:
   caption: Bridge on Orange & Alexandria \[Virginia\] Railroad, as repaired by army
     engineers under Colonel Herman Haupt, 1865. (Photo courtesy of Andrew J. Russell.
-    {{% resource_link "f8309892-f300-4ec2-b19a-86a15620bcd7" "Library of Congress,
-    Prints and Photographs Division" %}}, Civil War Photographs Collection, \[reproduction
-    number LC-USZC4-4589\].)
+    [Library of Congress, Prints and Photographs Division](http://www.loc.gov/rr/print/pphome.html),
+    Civil War Photographs Collection, \[reproduction number LC-USZC4-4589\].)
   credit: ''
   image-alt: Photograph of locomotive on a railroad bridge, from 1865.
 learning_resource_types: []

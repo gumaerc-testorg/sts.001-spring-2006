@@ -56,7 +56,7 @@ Introduction
  
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "101d50b7-5def-46b6-ac27-fb22bfe801df" "_A Man, A Plan, A Canal - Panama_" %}}
+[_A Man, A Plan, A Canal - Panama_](http://www.pbs.org/wgbh/nova/teachers/programs/1415_panama.html)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +202,7 @@ Art and Industrialization
 {{< tdopen >}}
 Cowan. pp. 208-18.  
   
-Hawthorne, Nathaniel. "{{% resource_link "ee067984-ee6b-46e0-9ba2-d8b111f8715b" "The Celestial Railroad" %}}." (Download "The Celestial Railroad," contained in a version of the text _Mosses from an Old Manse and Other Stories_, from Project Gutenberg.)  
+Hawthorne, Nathaniel. "[The Celestial Railroad](http://www.gutenberg.org/etext/512)." (Download "The Celestial Railroad," contained in a version of the text _Mosses from an Old Manse and Other Stories_, from Project Gutenberg.)  
   
 Notes on "The Celestial Railroad." ({{% resource_link b6f0a0d3-9c51-26f7-d62e-d8757e774a8a "PDF" %}})
 {{< tdclose >}}
@@ -224,7 +224,7 @@ Cowan. pp. 119-47.
 Smith, Merritt Roe. "Becoming Engineers in Early Industrial America." Working Paper 13, Program in Science, Technology and Society_,_ MIT, 1990.
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "07b7598d-cc29-4366-be2d-1e299e75c0f7" "_The Iron Road_" %}}. 59 min.
+[_The Iron Road_](http://www.pbs.org/wgbh/amex/iron/). 59 min.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -256,7 +256,7 @@ Technology in the Civil War Era (cont.)
 Foley, Brendan. "Naval Roots of American Mechanical Engineering." Draft of thesis/paper in production.
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "02ac979a-caa5-4aa6-a0f0-a22732792968" "_Brooklyn Bridge_" %}}. 58 min.
+[_Brooklyn Bridge_](http://www.imdb.com/title/tt0082106/). 58 min.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -318,7 +318,7 @@ Mass Production
  
 {{< tdclose >}}
 {{< tdopen >}}
-Chaplin, Charles. {{% resource_link "bdc2bbac-ee01-410e-8bba-321be085a427" "_Modern Times_" %}}. 1936.
+Chaplin, Charles. [_Modern Times_](http://www.imdb.com/title/tt0027977/). 1936.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -386,7 +386,7 @@ Guest Speaker: Dr. Brendan Foley (Woods Hole Oceanographic Institute)
 Cowan. pp. 256-70 and 310-18.
 {{< tdclose >}}
 {{< tdopen >}}
-Clip from {{% resource_link "4eeb66f2-bc76-4e6b-9048-ab97a5d24bb6" "_Twelve O'Clock High_" %}}. Scene 13 - Strategic Bombing Campaign aerial combat footage - approx. 10 min.
+Clip from [_Twelve O'Clock High_](http://www.imdb.com/title/tt0041996/). Scene 13 - Strategic Bombing Campaign aerial combat footage - approx. 10 min.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -401,7 +401,7 @@ World War II: A Technological Turning Point? (cont.)
  
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "e4429bbb-2112-4b65-86bb-fd3f054e8530" "_The Day After Trinity_" %}}
+[_The Day After Trinity_](http://www.imdb.com/title/tt0080594/)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -454,7 +454,7 @@ Nature's Revenge: Technology and the Environment
 Smith and Clancey. pp. 383-426.
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "0c19c9fa-a586-4a00-971a-848fb3e33159" "_Rachel Carson's Silent Spring_" %}}. Produced for PBS's _The American Experience_, 1993.
+[_Rachel Carson's Silent Spring_](http://movies.msn.com/movies/movie-synopsis/american-experience-rachel-carson%27s-silent-spring/). Produced for PBS's _The American Experience_, 1993.
 {{< tdclose >}}
 
 {{< trclose >}}
